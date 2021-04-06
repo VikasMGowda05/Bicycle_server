@@ -6,7 +6,6 @@ import java.util.List;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
-import com.benchire.priceengine.exception.PriceEngineException;
 import com.benchire.pricingengine.domain.Bicycle;
 import com.benchire.pricingengine.domain.ChainAssembly;
 import com.benchire.pricingengine.domain.Frame;
@@ -14,6 +13,7 @@ import com.benchire.pricingengine.domain.Handle;
 import com.benchire.pricingengine.domain.Rim;
 import com.benchire.pricingengine.domain.Seat;
 import com.benchire.pricingengine.domain.Wheel;
+import com.benchire.pricingengine.exception.PriceEngineException;
 
 /**
  * 

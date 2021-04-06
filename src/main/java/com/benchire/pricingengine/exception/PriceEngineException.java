@@ -1,4 +1,4 @@
-package com.benchire.priceengine.exception;
+package com.benchire.pricingengine.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

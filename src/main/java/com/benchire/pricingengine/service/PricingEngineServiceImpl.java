@@ -11,8 +11,8 @@ import java.util.concurrent.Future;
 
 import org.json.simple.JSONArray;
 
-import com.benchire.priceengine.exception.PriceEngineException;
 import com.benchire.pricingengine.domain.Bicycle;
+import com.benchire.pricingengine.exception.PriceEngineException;
 import com.benchire.pricingengine.util.PriceEngineUtil;
 
 public class PricingEngineServiceImpl {
