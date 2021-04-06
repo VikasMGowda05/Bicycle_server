@@ -5,6 +5,11 @@ import java.util.TreeMap;
 
 import com.benchire.pricingengine.domain.HandleType;
 
+/**
+ * 
+ * @author Vikas M Gowda
+ *
+ */
 public class HandleDto {
 	private Map<Long, Double> handle_ordinary_price;
 	private Map<Long, Double> handle_drop_price;

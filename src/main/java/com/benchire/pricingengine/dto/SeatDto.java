@@ -5,6 +5,11 @@ import java.util.TreeMap;
 
 import com.benchire.pricingengine.domain.SeatType;
 
+/**
+ * 
+ * @author Vikas M Gowda
+ *
+ */
 public class SeatDto {
 	private Map<Long, Double> seat_comfort_price;
 	private Map<Long, Double> seat_ordinary_price;
