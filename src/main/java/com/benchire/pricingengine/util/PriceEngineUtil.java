@@ -24,7 +24,8 @@ import com.benchire.pricingengine.exception.PriceEngineException;
 public class PriceEngineUtil {
 	
 	//specify you file source destination/ directory
-	public static String filePath = "/home/spaneos/Documents/Benchire/";
+	//example to specify file path "/home/Documents/Benchire/", if you are using local bicycle.json file
+	public static String filePath = "";
 	
 	@SuppressWarnings("unchecked")
 	public static List<Bicycle> extractingValuesFromJsonArray(JSONArray bicycleList) {
